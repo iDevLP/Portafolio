@@ -12149,4 +12149,10 @@ footer {
   #projects {
     margin-top: 100px;
   }
+  h2, .h2 {
+    font-size: 2rem;
+  }
+  h3, .h3 {
+    font-size: 1.5rem;
+  }
 }/*# sourceMappingURL=style.css.map */
